@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+hr {
+    width: 1450px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.nameheading {
+    color: black;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    font-size: 48px;
+    text-align: center;
+    margin-bottom: 4px;
+}
+
+.contactheading{
+    color: black;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    text-align: center;
+}
+
+.skillsheading{
+    color: black;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    font-size: 24px;
+}
+
+.languages{
+    color: black;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.experienceheading{
+    color: black;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    font-size: 24px;    
+}
+
+.employer1{
+    color: black;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.job1title{
+    color: black;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    font-size: 16px; 
+    font-style: italic;
+}
+
+.job1bullet1{
+    color: black;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    font-size: 16px; 
+    font-style: italic;
+}
+
+.job1bullet2{
+    color: black;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    font-size: 16px; 
+    font-style: italic;
+}
+
+.educationheading{
+    color: black;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    font-size: 24px; 
+}
+
+.uni{
+    color: black;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.unidate{
+    color: black;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.degree{
+    color: black;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    font-size: 16px; 
+    font-style: italic;
+}
+
+.projectsheading{
+    color: black;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    font-size: 24px; 
+}
+
+.sonicproject{
+    color: black;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 600;
+    font-size: 20px; 
+}
+
+.project1bullet1{
+    color: black;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    font-size: 16px; 
+    font-style: italic;
+}
+
+.project1bullet2{
+    color: black;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 300;
+    font-size: 16px; 
+    font-style: italic;
+}
+
+
+
+.educationsection{
+    display: flex;
+    justify-content: space-between;
+}
+
+.experiencesection{
+    display: flex;
+    justify-content: space-between;
+}
+
+
